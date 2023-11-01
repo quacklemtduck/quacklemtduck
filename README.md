@@ -1,1 +1,1 @@
-Currently a Software Development BSc student at the IT-University of Copenhagen
+Currently a Computer Science MSc student at the IT-University of Copenhagen
